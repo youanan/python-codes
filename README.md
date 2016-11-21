@@ -1,2 +1,4 @@
-# python-core
-&lt;CORE PYTHON PROGRAMMING>study
+# python-codes
+my python study codes
+----
+
